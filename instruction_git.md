@@ -110,18 +110,3 @@
     git checkout master
 
 Для просмотра своего положения среди коммитов можно возпользоваться командой git log. Рядом с "открытым" коммитом будет находиться статус "Head", рядом с последним текущим коммитом - статус "Master".
-
-
-git init
-git status
-git add
-git commit
-git commit -m
-git commit -a
-git commit -am
-git diff
-git log
-git log --oneline
-git log --all
-git log --oneline --all
-git checkout
